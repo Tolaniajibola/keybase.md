@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am tolaniajibola on github.
+  * I am orlando247 (https://keybase.io/orlando247) on keybase.
+  * I have a public key ASCleolIhJTgaqeRIEhrNP6f6ZQ56lbmzzvUAodiqefwtgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a57a89488494e06aa79120486b34fe9fe99439ea56e6cf3bd4028762a9e7f0b60a",
+      "host": "keybase.io",
+      "kid": "0120a57a89488494e06aa79120486b34fe9fe99439ea56e6cf3bd4028762a9e7f0b60a",
+      "uid": "3d64e1fd265e70449f3b22f78b27c719",
+      "username": "orlando247"
+    },
+    "merkle_root": {
+      "ctime": 1576607595,
+      "hash": "a1ecd17977284042c073373f6e6adce8df8b80de1bcb2e41cea9de8b06d3a39de019a1c4f826dc48214eb33a87d2607b651f85087e5415c7063fb3504ed7020f",
+      "hash_meta": "880480ce3922298c67549bd89b957c48d5c8244b1b25fef14b238d89ee5a5f12",
+      "seqno": 13709087
+    },
+    "service": {
+      "entropy": "5pPGO0pyrBcALHz1634p/Ndn",
+      "name": "github",
+      "username": "tolaniajibola"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1576607563,
+  "expire_in": 504576000,
+  "prev": "ca36d1f61d2d684e11c831cfdd1ac889b73269bfeadd587a74a61d572c04e3ae",
+  "seqno": 18,
+  "tag": "signature"
+}
+```
+
+with the key [ASCleolIhJTgaqeRIEhrNP6f6ZQ56lbmzzvUAodiqefwtgo](https://keybase.io/orlando247), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpXqJSISU4GqnkSBIazT+n+mUOepW5s871AKHYqnn8LYKp3BheWxvYWTESpcCEsQgyjbR9h0taE4RyDHP3RrIibcyab/q3Vh6dKYdVywE467EIPmWBCNzdQgnn/R7Uib8pR0QzSbpSqs0D0CFPPU2+CypAgHCo3NpZ8RA5xABucHJ/FyL4s5LUDqjNZy3OURCoMnyVwbycgi0MJ63r3V1yWu3HQBNIJSseKmh1Y6Wk4VCxrPDsgEryxPqDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOTN8z0ps0LL77FaCezCRzv6Y995ZJ0NCc8Tw/CT6lepo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/orlando247
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id orlando247
+```
